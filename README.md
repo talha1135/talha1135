@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [http://talha-hussain.engcoders.com/](http://talha-hussain.engcoders.com/)
 
-- 💬 Ask me about **laravel,core php ,wordpress,flutter,react nativem,blockchain**
+- 💬 Ask me about **laravel,core php ,wordpress,flutter,react native,blockchain**
 
 - 📫 How to reach me **talha.hussain@engcoders.com**
 
